@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Medical Physics",
+        "ISSN": [
+            "0094-2405",
+            "2473-4209"
+        ],
+        "article_count": 43515,
+        "current_dois": 1707,
+        "abstract_fill_rate": 0.8869361452841242
+    },
+    {
+        "title": "Journal of Applied Clinical Medical Physics",
+        "ISSN": [
+            "1526-9914",
+            "1526-9914"
+        ],
+        "article_count": 4394,
+        "current_dois": 877,
+        "abstract_fill_rate": 0.8745724059293044
+    }
+]

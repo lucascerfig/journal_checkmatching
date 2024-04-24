@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Applied Psychology",
+        "ISSN": [
+            "0269-994X",
+            "1464-0597"
+        ],
+        "article_count": 2940,
+        "current_dois": 187,
+        "abstract_fill_rate": 0.9037433155080214
+    },
+    {
+        "title": "Culture & Psychology",
+        "ISSN": [
+            "1354-067X"
+        ],
+        "article_count": 1089,
+        "current_dois": 149,
+        "abstract_fill_rate": 0.9865771812080537
+    },
+    {
+        "title": "Political Psychology",
+        "ISSN": [
+            "0162-895X",
+            "1467-9221"
+        ],
+        "article_count": 2795,
+        "current_dois": 198,
+        "abstract_fill_rate": 0.7878787878787878
+    },
+    {
+        "title": "Theory & Psychology",
+        "ISSN": [
+            "0959-3543",
+            "1461-7447"
+        ],
+        "article_count": 1900,
+        "current_dois": 103,
+        "abstract_fill_rate": 0.9029126213592233
+    },
+    {
+        "title": "Feminism & Psychology",
+        "ISSN": [
+            "0959-3535",
+            "1461-7161"
+        ],
+        "article_count": 2075,
+        "current_dois": 103,
+        "abstract_fill_rate": 0.7669902912621359
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Quantum",
+        "ISSN": [
+            "2521-327X"
+        ],
+        "article_count": 1316,
+        "current_dois": 704,
+        "abstract_fill_rate": 1.0
+    },
+    {
+        "title": "EPJ Quantum Technology",
+        "ISSN": [
+            "2196-0763",
+            "2196-0763"
+        ],
+        "article_count": 240,
+        "current_dois": 120,
+        "abstract_fill_rate": 0.9916666666666667
+    },
+    {
+        "title": "npj Quantum Information",
+        "ISSN": [
+            "2056-6387"
+        ],
+        "article_count": 864,
+        "current_dois": 317,
+        "abstract_fill_rate": 0.9558359621451104
+    },
+    {
+        "title": "npj Quantum Materials",
+        "ISSN": [
+            "2397-4648"
+        ],
+        "article_count": 657,
+        "current_dois": 238,
+        "abstract_fill_rate": 0.953781512605042
+    }
+]

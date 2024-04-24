@@ -1,0 +1,41 @@
+[
+    {
+        "title": "ChemistryOpen",
+        "ISSN": [
+            "2191-1363",
+            "2191-1363"
+        ],
+        "article_count": 1656,
+        "current_dois": 325,
+        "abstract_fill_rate": 0.8215384615384616
+    },
+    {
+        "title": "ChemistrySelect",
+        "ISSN": [
+            "2365-6549",
+            "2365-6549"
+        ],
+        "article_count": 15881,
+        "current_dois": 5225,
+        "abstract_fill_rate": 0.9473684210526316
+    },
+    {
+        "title": "Chemistry",
+        "ISSN": [
+            "2624-8549"
+        ],
+        "article_count": 488,
+        "current_dois": 309,
+        "abstract_fill_rate": 1.0
+    },
+    {
+        "title": "Green Chemistry",
+        "ISSN": [
+            "1463-9262",
+            "1463-9270"
+        ],
+        "article_count": 12388,
+        "current_dois": 2449,
+        "abstract_fill_rate": 0.8987341772151899
+    }
+]

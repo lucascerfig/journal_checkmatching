@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Biology",
+        "ISSN": [
+            "2079-7737"
+        ],
+        "article_count": 5982,
+        "current_dois": 3616,
+        "abstract_fill_rate": 1.0
+    },
+    {
+        "title": "Zoo Biology",
+        "ISSN": [
+            "0733-3188",
+            "1098-2361"
+        ],
+        "article_count": 2932,
+        "current_dois": 182,
+        "abstract_fill_rate": 0.8406593406593407
+    },
+    {
+        "title": "Conservation Biology",
+        "ISSN": [
+            "0888-8892",
+            "1523-1739"
+        ],
+        "article_count": 7988,
+        "current_dois": 423,
+        "abstract_fill_rate": 0.7659574468085106
+    },
+    {
+        "title": "Freshwater Biology",
+        "ISSN": [
+            "0046-5070",
+            "1365-2427"
+        ],
+        "article_count": 7300,
+        "current_dois": 429,
+        "abstract_fill_rate": 0.7622377622377622
+    },
+    {
+        "title": "Plant Biology",
+        "ISSN": [
+            "1435-8603",
+            "1438-8677"
+        ],
+        "article_count": 3299,
+        "current_dois": 285,
+        "abstract_fill_rate": 0.8526315789473684
+    },
+    {
+        "title": "Addiction Biology",
+        "ISSN": [
+            "1355-6215",
+            "1369-1600"
+        ],
+        "article_count": 2548,
+        "current_dois": 285,
+        "abstract_fill_rate": 0.8771929824561404
+    },
+    {
+        "title": "Systematic Biology",
+        "ISSN": [
+            "1063-5157",
+            "1076-836X"
+        ],
+        "article_count": 4796,
+        "current_dois": 177,
+        "abstract_fill_rate": 0.9435028248587571
+    },
+    {
+        "title": "PLoS Biology",
+        "ISSN": [
+            "1544-9173",
+            "1545-7885"
+        ],
+        "article_count": 4,
+        "current_dois": 1025,
+        "abstract_fill_rate": 0.7648780487804878
+    }
+]

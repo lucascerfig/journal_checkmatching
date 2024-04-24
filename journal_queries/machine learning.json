@@ -1,0 +1,29 @@
+[
+    {
+        "title": "APL Machine Learning",
+        "ISSN": [
+            "2770-9019"
+        ],
+        "article_count": 109,
+        "current_dois": 109,
+        "abstract_fill_rate": 0.963302752293578
+    },
+    {
+        "title": "Machine Learning and Knowledge Extraction",
+        "ISSN": [
+            "2504-4990"
+        ],
+        "article_count": 342,
+        "current_dois": 192,
+        "abstract_fill_rate": 1.0
+    },
+    {
+        "title": "Machine Learning Science and Technology",
+        "ISSN": [
+            "2632-2153"
+        ],
+        "article_count": 635,
+        "current_dois": 388,
+        "abstract_fill_rate": 1.0
+    }
+]
